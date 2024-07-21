@@ -1,0 +1,29 @@
+{
+    "item.soapistry.soap": "Soap",
+    "item.soapistry.soapy": "Soapy Soap",
+    "item.soapistry.ashen_soap": "Ashen Soap",
+    "item.soapistry.slimey_soap": "Slimey Soap",
+
+
+    "item.soapistry.ash": "Ash",
+    "item.soapistry.ashen_bone_meal": "Ashen Bone Meal",
+    
+    "block.soapistry.packed_soap": "Packed Soap",
+    "block.soapistry.packed_ash": "Packed Ash",
+    "block.soapistry.packed_lye": "Packed Lye",
+
+
+    "item.soapistry.lye": "Lye",
+    
+    "item.soapistry.bottle_of_fat": "Bottle of Fat",
+    
+    "item.soapistry.mystical_residue": "Mystical Residue",
+
+    "item.soapistry.sponge_chunk": "Sponge Chunk",
+    
+    "effect.soapistry.slippery": "Slippery",
+
+    "itemGroup.soapistry.soap": "Soapistry"
+
+    
+}

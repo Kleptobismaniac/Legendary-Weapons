@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "legendary": {
+      "conditions": {
+        "items": [
+          {
+            "items": "legendary-weapons:test"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "background": "minecraft:textures/gui/advancements/backgrounds/soapistry_background.png",
+    "description": "Craft a bar of Soap for the first time",
+    "frame": "goal",
+    "icon": {
+      "count": 1,
+      "id": "legendary-weapons:test"
+    },
+    "title": "Soap Making 101"
+  },
+  "requirements": [
+    [
+      "legendary"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
